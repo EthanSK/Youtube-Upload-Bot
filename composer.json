@@ -1,0 +1,7 @@
+{
+    "name": "ethansarif-kattan/youtubeuploadbot",
+    "description": "uploadbot",
+    "require": {
+        "google/apiclient": "^2.1"
+    }
+}
