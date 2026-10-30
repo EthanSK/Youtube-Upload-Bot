@@ -8,7 +8,11 @@ I have deleted a bunch of mp4 and image files, so if the script needs them, just
 
 Designed to run on Mac with localhost XAMPP w/ php 5.6.35 apache server. Give the entire root dir recursive read write permissions for all users.
 
-You must get your own credentials for youtube data api. Get them with oAuth playground for refresh token. 
+You must get your own credentials for youtube data api. Get them with oAuth playground for refresh token.
 To set the upload frequency, change numberOfVideosToUploadADay at the top of index.php
 
-Any questions please create issues so I can publicly answer them. 
+Any questions please create issues so I can publicly answer them.
+
+## License
+
+Source-available under [Ethan Source-Available No-Sale Terms 1.0](LICENSE). You can use and modify the covered code, including internally at work, and share it without charge. Selling the software, modified versions, paid access, or bundles requires a separate commercial license. Earlier licenses and third-party rights remain in force. See [scope and release policy](LICENSING.md).
